@@ -17,15 +17,13 @@ const AboutSection = ({ aboutClass }) => {
         <Row>
           <Col lg="6" md="6">
             <div className="about__section-content">
-              <h4 className="section__subtitle">About Us</h4>
-              <h2 className="section__title">Welcome to car rent service</h2>
+              <h4 className="section__subtitle">Sobre nosotros</h4>
+              <h2 className="section__title">Bienvenido a nuestro servicio</h2>
               <p className="section__description">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Voluptatum blanditiis esse accusantium dignissimos labore
-                laborum. Veniam, corporis mollitia temporibus, in quaerat vero
-                deleniti amet dolorem repudiandae, pariatur nam dolore! Impedit
-                neque sit ad temporibus quam similique dolor ipsam praesentium
-                sunt.
+                En AutoSpa Campestre nos dedicamos a proporcionar un servicio de lavado de automóviles
+                de primera clase que supera las expectativas de nuestros clientes. Con años de experiencia en la industria,
+                nuestro equipo altamente capacitado utiliza técnicas y productos de limpieza de vanguardia para garantizar 
+                que cada vehículo que entra en nuestras instalaciones salga reluciente y rejuvenecido. 
               </p>
 
               <div className="about__section-item d-flex align-items-center">

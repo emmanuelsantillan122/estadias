@@ -8,7 +8,7 @@ import "../styles/contact.css";
 
 const socialLinks = [
   {
-    url: "#",
+    url: "https://www.facebook.com/autospa.campestre.dgo",
     icon: "ri-facebook-line",
   },
   {

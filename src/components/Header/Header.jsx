@@ -41,7 +41,7 @@ const Header = () => {
           <Row>
             <Col lg="6" md="6" sm="6">
               <div className="header__top__left">
-                <span>Need Help?</span>
+                <span>Ayuda</span>
                 <span className="header__top__help">
                   <i class="ri-phone-fill"></i> +1-202-555-0149
                 </span>
@@ -51,11 +51,11 @@ const Header = () => {
             <Col lg="6" md="6" sm="6">
               <div className="header__top__right d-flex align-items-center justify-content-end gap-3">
                 <Link to="#" className=" d-flex align-items-center gap-1">
-                  <i class="ri-login-circle-line"></i> Login
+                  <i class="ri-login-circle-line"></i> 
                 </Link>
 
                 <Link to="#" className=" d-flex align-items-center gap-1">
-                  <i class="ri-user-line"></i> Register
+                  <i class="ri-user-line"></i> 
                 </Link>
               </div>
             </Col>
@@ -73,7 +73,7 @@ const Header = () => {
                   <Link to="/home" className=" d-flex align-items-center gap-2">
                     <i class="ri-car-line"></i>
                     <span>
-                      Rent Car <br /> Service
+                      Auto Spa <br /> Campestre
                     </span>
                   </Link>
                 </h1>
@@ -86,8 +86,8 @@ const Header = () => {
                   <i class="ri-earth-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Bangladesh</h4>
-                  <h6>Sylhet City, Bangladesh</h6>
+                  <h4></h4>
+                  <h6>Durango, Dgo</h6>
                 </div>
               </div>
             </Col>
@@ -98,8 +98,8 @@ const Header = () => {
                   <i class="ri-time-line"></i>
                 </span>
                 <div className="header__location-content">
-                  <h4>Sunday to Friday</h4>
-                  <h6>10am - 7pm</h6>
+                  <h4>Horario</h4>
+                  <h6>9am - 6:30pm</h6>
                 </div>
               </div>
             </Col>
